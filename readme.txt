@@ -3,4 +3,4 @@ Git is free software.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Create a new branch is quick and simple.
-Git is better than svn.
+Git is so good.
